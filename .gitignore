@@ -1,4 +1,4 @@
-
+artifacts/
 *.csv
 *.joblib
 *.log
