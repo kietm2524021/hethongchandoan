@@ -1,0 +1,907 @@
+{
+  "rules": [
+    {
+      "phrase": "sụt cân",
+      "icd": "E11",
+      "support": 4868,
+      "positive": 4100,
+      "confidence": 0.84224,
+      "lift": 3.66557,
+      "strength": 10.79155
+    },
+    {
+      "phrase": "sụt cân không",
+      "icd": "E11",
+      "support": 4868,
+      "positive": 4100,
+      "confidence": 0.84224,
+      "lift": 3.66557,
+      "strength": 10.79155
+    },
+    {
+      "phrase": "xuyên mệt",
+      "icd": "E11",
+      "support": 3382,
+      "positive": 2859,
+      "confidence": 0.84536,
+      "lift": 3.67916,
+      "strength": 10.38187
+    },
+    {
+      "phrase": "thường xuyên",
+      "icd": "E11",
+      "support": 3382,
+      "positive": 2859,
+      "confidence": 0.84536,
+      "lift": 3.67916,
+      "strength": 10.38187
+    },
+    {
+      "phrase": "xuyên mệt mỏi",
+      "icd": "E11",
+      "support": 3382,
+      "positive": 2859,
+      "confidence": 0.84536,
+      "lift": 3.67916,
+      "strength": 10.38187
+    },
+    {
+      "phrase": "thường xuyên mệt",
+      "icd": "E11",
+      "support": 3382,
+      "positive": 2859,
+      "confidence": 0.84536,
+      "lift": 3.67916,
+      "strength": 10.38187
+    },
+    {
+      "phrase": "lâu lành",
+      "icd": "E11",
+      "support": 3108,
+      "positive": 2641,
+      "confidence": 0.84974,
+      "lift": 3.69825,
+      "strength": 10.35901
+    },
+    {
+      "phrase": "thương lâu",
+      "icd": "E11",
+      "support": 3108,
+      "positive": 2641,
+      "confidence": 0.84974,
+      "lift": 3.69825,
+      "strength": 10.35901
+    },
+    {
+      "phrase": "vết thương",
+      "icd": "E11",
+      "support": 3108,
+      "positive": 2641,
+      "confidence": 0.84974,
+      "lift": 3.69825,
+      "strength": 10.35901
+    },
+    {
+      "phrase": "vết thương lâu",
+      "icd": "E11",
+      "support": 3108,
+      "positive": 2641,
+      "confidence": 0.84974,
+      "lift": 3.69825,
+      "strength": 10.35901
+    },
+    {
+      "phrase": "thương lâu lành",
+      "icd": "E11",
+      "support": 3108,
+      "positive": 2641,
+      "confidence": 0.84974,
+      "lift": 3.69825,
+      "strength": 10.35901
+    },
+    {
+      "phrase": "đi tiểu",
+      "icd": "E11",
+      "support": 2311,
+      "positive": 1990,
+      "confidence": 0.8611,
+      "lift": 3.74767,
+      "strength": 10.189
+    },
+    {
+      "phrase": "tiểu nhiều",
+      "icd": "E11",
+      "support": 2311,
+      "positive": 1990,
+      "confidence": 0.8611,
+      "lift": 3.74767,
+      "strength": 10.189
+    },
+    {
+      "phrase": "đi tiểu nhiều",
+      "icd": "E11",
+      "support": 2311,
+      "positive": 1990,
+      "confidence": 0.8611,
+      "lift": 3.74767,
+      "strength": 10.189
+    },
+    {
+      "phrase": "tê rần",
+      "icd": "E11",
+      "support": 2553,
+      "positive": 2172,
+      "confidence": 0.85076,
+      "lift": 3.70269,
+      "strength": 10.1204
+    },
+    {
+      "phrase": "rần tay",
+      "icd": "E11",
+      "support": 2553,
+      "positive": 2172,
+      "confidence": 0.85076,
+      "lift": 3.70269,
+      "strength": 10.1204
+    },
+    {
+      "phrase": "tay chân",
+      "icd": "E11",
+      "support": 2553,
+      "positive": 2172,
+      "confidence": 0.85076,
+      "lift": 3.70269,
+      "strength": 10.1204
+    },
+    {
+      "phrase": "tê rần tay",
+      "icd": "E11",
+      "support": 2553,
+      "positive": 2172,
+      "confidence": 0.85076,
+      "lift": 3.70269,
+      "strength": 10.1204
+    },
+    {
+      "phrase": "rần tay chân",
+      "icd": "E11",
+      "support": 2553,
+      "positive": 2172,
+      "confidence": 0.85076,
+      "lift": 3.70269,
+      "strength": 10.1204
+    },
+    {
+      "phrase": "hay khát",
+      "icd": "E11",
+      "support": 2394,
+      "positive": 2035,
+      "confidence": 0.85004,
+      "lift": 3.69955,
+      "strength": 10.02178
+    },
+    {
+      "phrase": "chua xây",
+      "icd": "I10",
+      "support": 34,
+      "positive": 31,
+      "confidence": 0.91176,
+      "lift": 4.40376,
+      "strength": 5.33111
+    },
+    {
+      "phrase": "ợ chua xây",
+      "icd": "I10",
+      "support": 34,
+      "positive": 31,
+      "confidence": 0.91176,
+      "lift": 4.40376,
+      "strength": 5.33111
+    },
+    {
+      "phrase": "chua xây xẩm",
+      "icd": "I10",
+      "support": 34,
+      "positive": 31,
+      "confidence": 0.91176,
+      "lift": 4.40376,
+      "strength": 5.33111
+    },
+    {
+      "phrase": "mặt ợ nóng",
+      "icd": "I10",
+      "support": 32,
+      "positive": 29,
+      "confidence": 0.90625,
+      "lift": 4.37712,
+      "strength": 5.18496
+    },
+    {
+      "phrase": "nóng xây",
+      "icd": "I10",
+      "support": 23,
+      "positive": 22,
+      "confidence": 0.95652,
+      "lift": 4.61993,
+      "strength": 5.17752
+    },
+    {
+      "phrase": "ợ nóng xây",
+      "icd": "I10",
+      "support": 23,
+      "positive": 22,
+      "confidence": 0.95652,
+      "lift": 4.61993,
+      "strength": 5.17752
+    },
+    {
+      "phrase": "nóng xây xẩm",
+      "icd": "I10",
+      "support": 23,
+      "positive": 22,
+      "confidence": 0.95652,
+      "lift": 4.61993,
+      "strength": 5.17752
+    },
+    {
+      "phrase": "ăn đau đầu",
+      "icd": "I10",
+      "support": 162,
+      "positive": 117,
+      "confidence": 0.72222,
+      "lift": 3.48828,
+      "strength": 5.17331
+    },
+    {
+      "phrase": "thở ợ",
+      "icd": "I10",
+      "support": 83,
+      "positive": 65,
+      "confidence": 0.78313,
+      "lift": 3.78247,
+      "strength": 5.13471
+    },
+    {
+      "phrase": "khó thở ợ",
+      "icd": "I10",
+      "support": 83,
+      "positive": 65,
+      "confidence": 0.78313,
+      "lift": 3.78247,
+      "strength": 5.13471
+    },
+    {
+      "phrase": "nôn hồi",
+      "icd": "I10",
+      "support": 27,
+      "positive": 25,
+      "confidence": 0.92593,
+      "lift": 4.47216,
+      "strength": 5.1275
+    },
+    {
+      "phrase": "nôn hồi hộp",
+      "icd": "I10",
+      "support": 27,
+      "positive": 25,
+      "confidence": 0.92593,
+      "lift": 4.47216,
+      "strength": 5.1275
+    },
+    {
+      "phrase": "buồn nôn hồi",
+      "icd": "I10",
+      "support": 27,
+      "positive": 25,
+      "confidence": 0.92593,
+      "lift": 4.47216,
+      "strength": 5.1275
+    },
+    {
+      "phrase": "miệng đau đầu",
+      "icd": "I10",
+      "support": 295,
+      "positive": 197,
+      "confidence": 0.6678,
+      "lift": 3.22541,
+      "strength": 5.08928
+    },
+    {
+      "phrase": "chóng mặt ợ",
+      "icd": "I10",
+      "support": 100,
+      "positive": 76,
+      "confidence": 0.76,
+      "lift": 3.67075,
+      "strength": 5.08834
+    },
+    {
+      "phrase": "mặt ợ",
+      "icd": "I10",
+      "support": 103,
+      "positive": 77,
+      "confidence": 0.74757,
+      "lift": 3.61072,
+      "strength": 4.97788
+    },
+    {
+      "phrase": "hơi đau đầu",
+      "icd": "I10",
+      "support": 97,
+      "positive": 73,
+      "confidence": 0.75258,
+      "lift": 3.6349,
+      "strength": 4.96759
+    },
+    {
+      "phrase": "ngực ợ",
+      "icd": "I10",
+      "support": 121,
+      "positive": 88,
+      "confidence": 0.72727,
+      "lift": 3.51268,
+      "strength": 4.91919
+    },
+    {
+      "phrase": "tức ngực ợ",
+      "icd": "I10",
+      "support": 121,
+      "positive": 88,
+      "confidence": 0.72727,
+      "lift": 3.51268,
+      "strength": 4.91919
+    },
+    {
+      "phrase": "gáy ợ",
+      "icd": "I10",
+      "support": 169,
+      "positive": 116,
+      "confidence": 0.68639,
+      "lift": 3.31522,
+      "strength": 4.77934
+    },
+    {
+      "phrase": "sưng khớp",
+      "icd": "M15",
+      "support": 2125,
+      "positive": 1659,
+      "confidence": 0.78071,
+      "lift": 4.01749,
+      "strength": 9.3366
+    },
+    {
+      "phrase": "buổi sáng",
+      "icd": "M15",
+      "support": 3623,
+      "positive": 2685,
+      "confidence": 0.7411,
+      "lift": 3.81367,
+      "strength": 9.19551
+    },
+    {
+      "phrase": "cứng khớp",
+      "icd": "M15",
+      "support": 3623,
+      "positive": 2685,
+      "confidence": 0.7411,
+      "lift": 3.81367,
+      "strength": 9.19551
+    },
+    {
+      "phrase": "khớp buổi",
+      "icd": "M15",
+      "support": 3623,
+      "positive": 2685,
+      "confidence": 0.7411,
+      "lift": 3.81367,
+      "strength": 9.19551
+    },
+    {
+      "phrase": "cứng khớp buổi",
+      "icd": "M15",
+      "support": 3623,
+      "positive": 2685,
+      "confidence": 0.7411,
+      "lift": 3.81367,
+      "strength": 9.19551
+    },
+    {
+      "phrase": "khớp buổi sáng",
+      "icd": "M15",
+      "support": 3623,
+      "positive": 2685,
+      "confidence": 0.7411,
+      "lift": 3.81367,
+      "strength": 9.19551
+    },
+    {
+      "phrase": "động khớp",
+      "icd": "M15",
+      "support": 3279,
+      "positive": 2446,
+      "confidence": 0.74596,
+      "lift": 3.83868,
+      "strength": 9.17674
+    },
+    {
+      "phrase": "khó cử",
+      "icd": "M15",
+      "support": 3098,
+      "positive": 2319,
+      "confidence": 0.74855,
+      "lift": 3.852,
+      "strength": 9.16163
+    },
+    {
+      "phrase": "cử động",
+      "icd": "M15",
+      "support": 3098,
+      "positive": 2319,
+      "confidence": 0.74855,
+      "lift": 3.852,
+      "strength": 9.16163
+    },
+    {
+      "phrase": "khó cử động",
+      "icd": "M15",
+      "support": 3098,
+      "positive": 2319,
+      "confidence": 0.74855,
+      "lift": 3.852,
+      "strength": 9.16163
+    },
+    {
+      "phrase": "cử động khớp",
+      "icd": "M15",
+      "support": 3098,
+      "positive": 2319,
+      "confidence": 0.74855,
+      "lift": 3.852,
+      "strength": 9.16163
+    },
+    {
+      "phrase": "đau nhiều",
+      "icd": "M15",
+      "support": 2791,
+      "positive": 2102,
+      "confidence": 0.75314,
+      "lift": 3.87561,
+      "strength": 9.12894
+    },
+    {
+      "phrase": "đau nhiều khớp",
+      "icd": "M15",
+      "support": 2791,
+      "positive": 2102,
+      "confidence": 0.75314,
+      "lift": 3.87561,
+      "strength": 9.12894
+    },
+    {
+      "phrase": "nhiều khớp",
+      "icd": "M15",
+      "support": 2801,
+      "positive": 2107,
+      "confidence": 0.75223,
+      "lift": 3.87096,
+      "strength": 9.11532
+    },
+    {
+      "phrase": "đau khớp",
+      "icd": "M15",
+      "support": 6547,
+      "positive": 4616,
+      "confidence": 0.70506,
+      "lift": 3.62819,
+      "strength": 9.11472
+    },
+    {
+      "phrase": "khớp sưng",
+      "icd": "M15",
+      "support": 3352,
+      "positive": 2456,
+      "confidence": 0.7327,
+      "lift": 3.77043,
+      "strength": 8.93705
+    },
+    {
+      "phrase": "khi vận",
+      "icd": "M15",
+      "support": 3979,
+      "positive": 2855,
+      "confidence": 0.71752,
+      "lift": 3.69232,
+      "strength": 8.82633
+    },
+    {
+      "phrase": "khớp khi",
+      "icd": "M15",
+      "support": 3979,
+      "positive": 2855,
+      "confidence": 0.71752,
+      "lift": 3.69232,
+      "strength": 8.82633
+    },
+    {
+      "phrase": "vận động",
+      "icd": "M15",
+      "support": 3979,
+      "positive": 2855,
+      "confidence": 0.71752,
+      "lift": 3.69232,
+      "strength": 8.82633
+    },
+    {
+      "phrase": "khi vận động",
+      "icd": "M15",
+      "support": 3979,
+      "positive": 2855,
+      "confidence": 0.71752,
+      "lift": 3.69232,
+      "strength": 8.82633
+    },
+    {
+      "phrase": "sút cân",
+      "icd": "B20",
+      "support": 1087,
+      "positive": 1087,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.12821
+    },
+    {
+      "phrase": "sút cân không",
+      "icd": "B20",
+      "support": 1087,
+      "positive": 1087,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.12821
+    },
+    {
+      "phrase": "hay bị",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "bị nhiễm",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "tái phát",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "trùng tái",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "nhiễm trùng",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "hay bị nhiễm",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "bị nhiễm trùng",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "trùng tái phát",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "nhiễm trùng tái",
+      "icd": "B20",
+      "support": 1048,
+      "positive": 1048,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.04401
+    },
+    {
+      "phrase": "hạch kéo",
+      "icd": "B20",
+      "support": 1045,
+      "positive": 1045,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.0374
+    },
+    {
+      "phrase": "nổi hạch",
+      "icd": "B20",
+      "support": 1045,
+      "positive": 1045,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.0374
+    },
+    {
+      "phrase": "hạch kéo dài",
+      "icd": "B20",
+      "support": 1045,
+      "positive": 1045,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.0374
+    },
+    {
+      "phrase": "nổi hạch kéo",
+      "icd": "B20",
+      "support": 1045,
+      "positive": 1045,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 16.0374
+    },
+    {
+      "phrase": "chảy kéo",
+      "icd": "B20",
+      "support": 1003,
+      "positive": 1003,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 15.94287
+    },
+    {
+      "phrase": "tiêu chảy",
+      "icd": "B20",
+      "support": 1003,
+      "positive": 1003,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 15.94287
+    },
+    {
+      "phrase": "chảy kéo dài",
+      "icd": "B20",
+      "support": 1003,
+      "positive": 1003,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 15.94287
+    },
+    {
+      "phrase": "tiêu chảy kéo",
+      "icd": "B20",
+      "support": 1003,
+      "positive": 1003,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 15.94287
+    },
+    {
+      "phrase": "ngứa và",
+      "icd": "B20",
+      "support": 999,
+      "positive": 999,
+      "confidence": 1.0,
+      "lift": 9.04057,
+      "strength": 15.93366
+    },
+    {
+      "phrase": "nuốt đau",
+      "icd": "J02",
+      "support": 628,
+      "positive": 447,
+      "confidence": 0.71178,
+      "lift": 15.34882,
+      "strength": 12.14142
+    },
+    {
+      "phrase": "cảm giác",
+      "icd": "J02",
+      "support": 1234,
+      "positive": 809,
+      "confidence": 0.65559,
+      "lift": 14.13711,
+      "strength": 11.9297
+    },
+    {
+      "phrase": "giác vướng",
+      "icd": "J02",
+      "support": 1234,
+      "positive": 809,
+      "confidence": 0.65559,
+      "lift": 14.13711,
+      "strength": 11.9297
+    },
+    {
+      "phrase": "vướng họng",
+      "icd": "J02",
+      "support": 1234,
+      "positive": 809,
+      "confidence": 0.65559,
+      "lift": 14.13711,
+      "strength": 11.9297
+    },
+    {
+      "phrase": "cảm giác vướng",
+      "icd": "J02",
+      "support": 1234,
+      "positive": 809,
+      "confidence": 0.65559,
+      "lift": 14.13711,
+      "strength": 11.9297
+    },
+    {
+      "phrase": "giác vướng họng",
+      "icd": "J02",
+      "support": 1234,
+      "positive": 809,
+      "confidence": 0.65559,
+      "lift": 14.13711,
+      "strength": 11.9297
+    },
+    {
+      "phrase": "khàn tiếng",
+      "icd": "J02",
+      "support": 720,
+      "positive": 499,
+      "confidence": 0.69306,
+      "lift": 14.94498,
+      "strength": 11.92689
+    },
+    {
+      "phrase": "rát họng",
+      "icd": "J02",
+      "support": 706,
+      "positive": 484,
+      "confidence": 0.68555,
+      "lift": 14.78318,
+      "strength": 11.69671
+    },
+    {
+      "phrase": "đau họng",
+      "icd": "J02",
+      "support": 647,
+      "positive": 438,
+      "confidence": 0.67697,
+      "lift": 14.59812,
+      "strength": 11.31559
+    },
+    {
+      "phrase": "họng khàn",
+      "icd": "J02",
+      "support": 175,
+      "positive": 137,
+      "confidence": 0.78286,
+      "lift": 16.88145,
+      "strength": 11.12365
+    },
+    {
+      "phrase": "họng khàn tiếng",
+      "icd": "J02",
+      "support": 175,
+      "positive": 137,
+      "confidence": 0.78286,
+      "lift": 16.88145,
+      "strength": 11.12365
+    },
+    {
+      "phrase": "họng nuốt",
+      "icd": "J02",
+      "support": 126,
+      "positive": 102,
+      "confidence": 0.80952,
+      "lift": 17.45649,
+      "strength": 10.93842
+    },
+    {
+      "phrase": "họng nuốt đau",
+      "icd": "J02",
+      "support": 126,
+      "positive": 102,
+      "confidence": 0.80952,
+      "lift": 17.45649,
+      "strength": 10.93842
+    },
+    {
+      "phrase": "họng cảm",
+      "icd": "J02",
+      "support": 142,
+      "positive": 112,
+      "confidence": 0.78873,
+      "lift": 17.00814,
+      "strength": 10.77885
+    },
+    {
+      "phrase": "họng cảm giác",
+      "icd": "J02",
+      "support": 142,
+      "positive": 112,
+      "confidence": 0.78873,
+      "lift": 17.00814,
+      "strength": 10.77885
+    },
+    {
+      "phrase": "họng ợ",
+      "icd": "J02",
+      "support": 148,
+      "positive": 114,
+      "confidence": 0.77027,
+      "lift": 16.61003,
+      "strength": 10.48391
+    },
+    {
+      "phrase": "họng mệt",
+      "icd": "J02",
+      "support": 137,
+      "positive": 103,
+      "confidence": 0.75182,
+      "lift": 16.21227,
+      "strength": 9.93625
+    },
+    {
+      "phrase": "họng mệt mỏi",
+      "icd": "J02",
+      "support": 137,
+      "positive": 103,
+      "confidence": 0.75182,
+      "lift": 16.21227,
+      "strength": 9.93625
+    },
+    {
+      "phrase": "rát họng ợ",
+      "icd": "J02",
+      "support": 37,
+      "positive": 34,
+      "confidence": 0.91892,
+      "lift": 19.81547,
+      "strength": 9.91785
+    },
+    {
+      "phrase": "sốt đau họng",
+      "icd": "J02",
+      "support": 28,
+      "positive": 27,
+      "confidence": 0.96429,
+      "lift": 20.79376,
+      "strength": 9.90186
+    }
+  ],
+  "min_support": 15,
+  "min_confidence": 0.62,
+  "min_lift": 1.18
+}
