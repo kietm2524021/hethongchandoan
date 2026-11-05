@@ -1,0 +1,12 @@
+artifacts/
+*.csv
+*.joblib
+*.log
+*.key
+*.pem
+__pycache__/
+.pytest_cache/
+.venv/
+data/
+nghe_nghiep.csv
+*.zip
